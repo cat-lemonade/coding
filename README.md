@@ -6,5 +6,5 @@ LeetCode + Nowcoder 刷题记录、代码记录、和做题思路。
 ## 算法
 - 字符串
 
-    [`字符串最后一个单词的长度.md`](https://github.com/cat-lemonade/coding/blob/main/src/HJ1%20字符串最后一个单词的长度/字符串最后一个单词的长度.md)
+    [`HJ1 - 字符串最后一个单词的长度.md`](https://github.com/cat-lemonade/coding/blob/main/src/HJ1%20字符串最后一个单词的长度/字符串最后一个单词的长度.md)
 
