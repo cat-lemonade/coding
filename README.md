@@ -1,7 +1,7 @@
 # 刷题记录
 多刷题，早日Full Stack
 
-LeetCode + Nowcoder 刷题记录、代码记录、和做题思路。
+LeetCode + Nowcoder 刷题记录、代码记录、和做题思路
 
 ## 算法
 - 字符串
