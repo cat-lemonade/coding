@@ -10,3 +10,5 @@ LeetCode + Nowcoder 刷题记录、代码记录、和做题思路
     
     [`HJ2 - 计算某字符出现次数.md`](https://github.com/cat-lemonade/coding/blob/main/src/HJ2%20计算某字符出现次数/HJ2%20计算某字符出现次数.md)
 
+    [`HJ4 字符串分隔.md`](https://github.com/cat-lemonade/coding/blob/main/src/HJ4%20字符串分隔/HJ4%20字符串分隔.md)
+
